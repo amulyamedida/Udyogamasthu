@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Enabled",
+                "ssl": {
+                    "crl": "",
+                    "key": "C:\\Users\\91939\\gov-exam-backend\\server.js"
+                }
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 30000,
+            "driver": "MySQL",
+            "name": "Mysql",
+            "database": "demo",
+            "username": "root",
+            "password": "Amulya_29",
+            "connectionTimeout": 120
+        }
+    ]
+}
